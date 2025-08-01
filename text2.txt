@@ -1,1 +1,3 @@
-i am a new file text2
+i am modify the text2.txt 
+
+that is all , it is over 
